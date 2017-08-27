@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa909b25-9a4b-4995-b174-9d985c27fa13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../velocity/target/classes/com/xq/ssm/controller/HelloWorldController.class" afterPath="$PROJECT_DIR$/../velocity/target/classes/com/xq/ssm/controller/HelloWorldController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../velocity/target/velocity/WEB-INF/classes/com/xq/ssm/controller/HelloWorldController.class" afterPath="$PROJECT_DIR$/../velocity/target/velocity/WEB-INF/classes/com/xq/ssm/controller/HelloWorldController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../velocity/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../velocity/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../velocity/src/main/java/com/xq/ssm/controller/HelloWorldController.java" afterPath="$PROJECT_DIR$/../velocity/src/main/java/com/xq/ssm/controller/HelloWorldController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../velocity/src/main/webapp/jsp/hello.vm" afterPath="$PROJECT_DIR$/../velocity/src/main/webapp/jsp/hello.vm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../velocity/target/velocity/jsp/hello.vm" afterPath="$PROJECT_DIR$/../velocity/target/velocity/jsp/hello.vm" />
     </list>
     <ignored path="$PROJECT_DIR$/../velocity/out/" />
     <ignored path="$PROJECT_DIR$/../velocity/target/" />
@@ -76,8 +71,8 @@
       <file leaf-file-name="hello.vm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../velocity/src/main/webapp/jsp/hello.vm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="125">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -899,12 +894,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503816118409</updated>
-      <workItem from="1503816121433" duration="5107000" />
+      <workItem from="1503816121433" duration="5172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5107000" />
+    <option name="totallyTimeSpent" value="5172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1036,8 +1031,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../velocity/src/main/webapp/jsp/hello.vm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="125">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
